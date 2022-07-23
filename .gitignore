@@ -1,0 +1,5 @@
+
+*.log
+dags/__pycache__/create_dag_with_python_operator.cpython-37.pyc
+dags/__pycache__/our_first_dag_v1.cpython-37.pyc
+logs/scheduler/latest
